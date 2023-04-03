@@ -1,0 +1,15 @@
+C:\Users\seand\source\repos\ComplianceWriter\ComplianceWriter\bin\Debug\ComplianceWriter.dll
+C:\Users\seand\source\repos\ComplianceWriter\ComplianceWriter\bin\Debug\ComplianceWriter.pdb
+C:\Users\seand\source\repos\ComplianceWriter\ComplianceWriter\bin\Debug\ComplianceWriter.dll.manifest
+C:\Users\seand\source\repos\ComplianceWriter\ComplianceWriter\bin\Debug\ComplianceWriter.vsto
+C:\Users\seand\source\repos\ComplianceWriter\ComplianceWriter\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\seand\source\repos\ComplianceWriter\ComplianceWriter\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\seand\source\repos\ComplianceWriter\ComplianceWriter\obj\Debug\ComplianceWriter.csproj.AssemblyReference.cache
+C:\Users\seand\source\repos\ComplianceWriter\ComplianceWriter\obj\Debug\ComplianceWriter.Properties.Resources.resources
+C:\Users\seand\source\repos\ComplianceWriter\ComplianceWriter\obj\Debug\ComplianceWriter.csproj.GenerateResource.cache
+C:\Users\seand\source\repos\ComplianceWriter\ComplianceWriter\obj\Debug\ComplianceWriter.csproj.CoreCompileInputs.cache
+C:\Users\seand\source\repos\ComplianceWriter\ComplianceWriter\obj\Debug\ComplianceWriter.csproj.CopyComplete
+C:\Users\seand\source\repos\ComplianceWriter\ComplianceWriter\obj\Debug\ComplianceWriter.dll
+C:\Users\seand\source\repos\ComplianceWriter\ComplianceWriter\obj\Debug\ComplianceWriter.pdb
+C:\Users\seand\source\repos\ComplianceWriter\ComplianceWriter\obj\Debug\ComplianceWriter.Footer.resources
+C:\Users\seand\source\repos\ComplianceWriter\ComplianceWriter\bin\Debug\ComplianceWriter.dll.config
